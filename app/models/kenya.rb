@@ -1,0 +1,2 @@
+class Kenya < ApplicationRecord
+end
